@@ -1,0 +1,1 @@
+nvcc main.cu -std=c++17 -o main.out
